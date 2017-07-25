@@ -13,3 +13,8 @@ script per splittare immagini jpg (rgb + ir) con banda infrarosso - bash shell d
 [Guida rapida su GDAL/OGR](https://live.osgeo.org/it/quickstart/gdal_quickstart.html)
 
 [Impara X in Y minuti - X=bash](https://learnxinyminutes.com/docs/it-it/bash-it/)
+
+
+
+
+Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborruso?lang=it)
