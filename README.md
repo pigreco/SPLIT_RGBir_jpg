@@ -17,4 +17,4 @@ script per splittare immagini jpg (rgb + ir) con banda infrarosso - bash shell d
 
 
 
-Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborruso?lang=it)
+Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborruso?lang=it) :+1:
