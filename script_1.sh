@@ -1,7 +1,7 @@
 #!/bin/bash
 set -x
 
-#creo una cartella di output
+#creo cartelle di output
 mkdir ./RGB
 mkdir ./ir
 
@@ -16,5 +16,5 @@ for i in *.jpg;
      gdal_translate -b 1  ./"$i" ./RGB/"$filename"_R.jpg;
      gdal_translate -b 2  ./"$i" ./RGB/"$filename"_G.jpg;
      gdal_translate -b 3  ./"$i" ./RGB/"$filename"_B.jpg;
-     gdal_translate -b 4  ./"$i" ./ir/"$filename"_IR.jpg;
+     gdal_translate -b 4  ./"$i" ./ir/"$filename"_IR.jpg; # se la b 4 non esistesse darebbe errore!!!
  done
