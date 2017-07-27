@@ -62,6 +62,8 @@ Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborru
 
 [il mio canale YouTube](https://goo.gl/W7Oo3W)
 
++++
+
 ![Video](https://www.youtube.com/watch?v=QRhYHg227ZU)
 
 +++
@@ -73,8 +75,6 @@ Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborru
 # whoIam
 
 <span style="color:red">Sono un ingegnere con la passione del GIS</span>
-<span style="color:blue">Mi occupo di rilevamento e trattamento informatico
-dei dati relativi alla terra e all’ambiente.</span>
 
 ---
 
