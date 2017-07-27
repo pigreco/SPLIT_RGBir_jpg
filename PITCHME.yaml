@@ -2,4 +2,5 @@ theme : night
 history: true
 logo : img/logo2.png
 transition : concave
-autoslide : 5000
+autoslide : 4000
+footnote : "© 2017 Totò FIANDACA"
