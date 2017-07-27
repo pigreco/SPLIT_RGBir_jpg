@@ -70,7 +70,7 @@ Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborru
 
 [il mio blog](https://pigrecoinfinito.wordpress.com/)
 
-![](./img/N2.png)
+![](./img/N2.jpg)
 
 +++
 
@@ -111,7 +111,3 @@ Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborru
 ---
 
 ![](https://media.giphy.com/media/pUgwLxmGW3S7K/giphy.gif)
-
-+++
-
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/pigreco/SPLIT_RGBir_jpg/master?grs=github&t=white)
