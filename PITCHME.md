@@ -6,12 +6,12 @@
 <br>
 <span style="color:gray"><a href="https://twitter.com/totofiandaca?lang=it" target="_blank">@totofiandaca</a></span>
 
-+++
++++ HHH
 
 # SPLIT_RGBir_jpg 
 script per splittare immagini jpg (rgb + ir) con banda infrarosso - bash shell di unix
 
-+++
++++ VVV
 
 ```
 #!/bin/bash
