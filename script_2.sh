@@ -1,7 +1,7 @@
 #!/bin/bash
 set -x
 
-#creo una cartella di output
+#creo cartelle di output
 mkdir ./RGB
 mkdir ./IR
 
