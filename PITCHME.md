@@ -45,7 +45,6 @@ done
 3. copiare ed incollare lo `script` nella `shell`;
 4. invio
 
-
 +++
 
 ## link utili
