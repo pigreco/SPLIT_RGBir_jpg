@@ -56,7 +56,9 @@ done
 
 +++
 
-Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborruso?lang=it)
+Un grosso abbraccio al mio `mentore`
+
+[Andrea Borruso](https://twitter.com/aborruso?lang=it)
 
 +++
 
