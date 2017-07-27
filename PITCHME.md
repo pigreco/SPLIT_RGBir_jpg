@@ -62,7 +62,7 @@ Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborru
 
 [il mio canale YouTube](https://goo.gl/W7Oo3W)
 
-![video](https://www.youtube.com/watch?v=QRhYHg227ZU)
+![Video](https://www.youtube.com/watch?v=QRhYHg227ZU)
 
 +++
 
