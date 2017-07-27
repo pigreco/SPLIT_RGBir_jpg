@@ -78,7 +78,7 @@ Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborru
 
 ---
 
-![](./logo.png)
+![](.img/logo.png)
 
 +++
 
@@ -100,7 +100,7 @@ Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborru
 
 +++
 
-![](./logo_evolution.png)
+![](.img/logo_evolution.png)
 
 +++
 
