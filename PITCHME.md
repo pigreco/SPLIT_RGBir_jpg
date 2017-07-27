@@ -70,6 +70,8 @@ Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborru
 
 [il mio blog](https://pigrecoinfinito.wordpress.com/)
 
+![](./img/N2.png)
+
 +++
 
 # whoIam
