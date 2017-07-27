@@ -1,3 +1,5 @@
 theme : night
 history: true
 logo : img/logo2.png
+transition : fade
+autoslide : 5000
