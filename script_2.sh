@@ -8,7 +8,7 @@ mkdir ./IR
 for i in *.jpg; 
  do 
   #crei una variabile che usi per estrarre nome e estensione
-  filename=$(basename "$i")
+  filename=$(basename "$i") #estrae nome file con estensione
   #estrai estensione
   extension="${filename##*.}"
   #estrai nome file
