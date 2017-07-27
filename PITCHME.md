@@ -13,12 +13,38 @@ script per splittare immagini jpg (rgb + ir) con banda infrarosso - bash shell d
 
 +++
 
+```
+#!/bin/bash
+set -x
+
+#creo cartelle di output
+mkdir ./RGB
+mkdir ./IR
+
+for i in *.jpg; 
+ do 
+  #crei una variabile che usi per estrarre nome e estensione
+  filename=$(basename "$i") #estrae nome file con estensione
+  #estrai estensione
+  extension="${filename##*.}"
+  #estrai nome file
+  filename="${filename%.*}" 
+  gdal_translate -b 4  ./"$i" ./IR/"$filename"_ir.jpg;
+	for k in 1 2 3
+		do
+			gdal_translate -b $k  ./"$i" ./RGB/"$filename"_$k.jpg;
+		done
+done
+```
+---
+
 ## come fare con installazione QGIS da OSGeo4W
 
 1. avviare `MSYS`;
 2. navigare fino alla cartella che contiene le immagini; (se la cartella (rgb che contiene le immagini) è sul desktop: cd C:/Users/utente/Desktop/rgb)
 3. copiare ed incollare lo `script` nella `shell`;
 4. invio
+
 
 +++
 
