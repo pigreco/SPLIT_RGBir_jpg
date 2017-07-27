@@ -56,7 +56,7 @@ done
 
 +++
 
-Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborruso?lang=it) :+1:
+Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborruso?lang=it)
 
 +++
 
@@ -85,7 +85,7 @@ Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborru
 ## Spazi
 
 - FB: [Facebook](https://www.facebook.com/pigreco314)
-- repo: [https://github.com/pigreco/OpenData-da-riga-di-comando](https://github.com/pigreco/OpenData-da-riga-di-comando)
+- repo: [github](https://github.com/pigreco/OpenData-da-riga-di-comando)
 
 +++
 
@@ -111,4 +111,4 @@ Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborru
 ![](https://media.giphy.com/media/pUgwLxmGW3S7K/giphy.gif)
 
 +++
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/pigreco/SPLIT_RGBir_jpg/master?grs=github&t=white)
+![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/pigreco/SPLIT_RGBir_jpg/master?grs=github&t=white)
