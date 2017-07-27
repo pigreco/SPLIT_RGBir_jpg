@@ -11,7 +11,7 @@
 # SPLIT_RGBir_jpg 
 script per splittare immagini jpg (rgb + ir) con banda infrarosso - bash shell di unix
 
-+++ VVV
++++
 
 ```
 #!/bin/bash
@@ -111,4 +111,4 @@ Un grosso abbraccio al mio `mentore` [Andrea Borruso](https://twitter.com/aborru
 ![](https://media.giphy.com/media/pUgwLxmGW3S7K/giphy.gif)
 
 +++
-![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/pigreco/SPLIT_RGBir_jpg/master?grs=github&t=white)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/pigreco/SPLIT_RGBir_jpg/master?grs=github&t=white)
